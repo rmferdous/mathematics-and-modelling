@@ -10,6 +10,7 @@ Sessions this week: 1 / 6
 
 Diagnostic 2 (step 0a DONE): GCSE Higher Paper 1 (non-calc), Nov 2023.
   Score: 24/80 cold (full + partial).
+  Approx grade: 4 (Paper 1H Nov 2023: grade 4 = 15, grade 5 = 26; 24 is just below 5) End-of-0b test: GCSE Higher Paper 1, June 2023 (unseen). Target 48/80 (~grade 7).
   Correct: Q1, 2b, 4a, 4b, 5, 8, 15, 16.
   Strength: modelling intuition - Q15 (gradient of curve), Q16 (recurrence).
 
@@ -26,7 +27,7 @@ Deferred (not blocking):
   Q11, Q18 box plots/probability -> Phase 3
 
 Build status: not started (starts in step 0c)
-Done-when criteria met: none yet
+Done-when (0b): 48+/80 on unseen GCSE Higher Paper 1 June 2023 -> then start 0c
 Review list: Q2a, Q3
 Known weak spots: indices and surds; forming equations; algebraic fluency;
   integration never studied.
